@@ -1,3 +1,3 @@
-From my recent participation in a coding challenge as part of a peer-learning workshop, where participants were encouraged to identify inefficiencies in commonly used algorithsm and optimise them. I demonstrated the effects of memoization on recursive functions using the Fibonacci sequence as an example.
+From my recent participation in a coding challenge as part of a peer-learning workshop, where participants were encouraged to identify inefficiencies in commonly used algorithms and optimise them. I demonstrated the effects of memoization on recursive functions using the Fibonacci sequence as an example.
 
 This mini project involved showcasing how memoization drastically reduces time complexity in recursive calls, turning an exponential-time algorithm into a linear-time solution. I shared the code with the group to promote collaborative learning and discussions on algorithm optimisation and coding best practices.
